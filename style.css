@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "Bluetea Regular";
+  src: url("../fonts/Bluetea.otf");
+}
+@font-face {
+  font-family: "Cocogoose";
+  src: url("../fonts/Cocogoose.ttf");
+}
+h1 {
+  font-family: "Bluetea Regular", cursive;
+  font-size: 50px;
+}
+
+p {
+  font-family: "Cocogoose", sans-serif;
+  font-size: 20px;
+}
+
+body {
+  min-height: 400px;
+  background-image: url("https://img.freepik.com/free-vector/online-banking-technology-e-wallet-e-payment-internet-app-money-internet-withdraw-smartphone-application-monetization-ecommerce-design-element_335657-2642.jpg");
+  background-color: #ffffff;
+  background-size: 50vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #cd5c5c;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #cd5c5c;
+  margin-top: 5px;
+}
+
+.gabe-logo {
+  width: 30px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: #cd5c5c;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #cd5c5c;
+}
+
+h2 {
+  font-family: "Bluetea Regular", sans-serif;
+  color: #fffff;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: "Bluetea Regular", sans-serif;
+  color: #fffff;
+  font-size: 30px;
+}
